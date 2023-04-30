@@ -1,4 +1,10 @@
 Students Ages
 
-name 20
-name 30 
+name 1
+name 2
+name 3 
+
+schools
+xys 
+ewaesre
+szdfsz
