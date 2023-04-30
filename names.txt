@@ -1,6 +1,4 @@
 Students Ages
 
-25
-26
-33
-32
+name 20
+name 30 
